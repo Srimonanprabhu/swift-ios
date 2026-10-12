@@ -1,9 +1,7 @@
 # MiniSwiftApp
 
 ## About
-MiniSwiftApp is a Swift programming project created using MiniSwift Studio. This repository contains my Swift source code and project ZIP archive.
-
-## Technologies Used
+MiniSwiftApp is a Swift programming project created using MiniSwift Studio. This repository contains my Swift source code.
 - Swift
 - MiniSwift Studio
 
